@@ -2,7 +2,7 @@
     id?:string,
     userName:string,
     password: string,
-    games :Game[]
+    games? :Game[]
 }
  export interface Game {
     gameId?:string,
