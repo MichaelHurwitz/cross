@@ -1,0 +1,1 @@
+const fgfb:number = 5
